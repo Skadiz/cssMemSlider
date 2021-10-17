@@ -1,2 +1,2 @@
 # cssMemSlider
-The task for Rs School stage 1 courses (Html+css only)
+https://skadiz.github.io/cssMemSlider/cssMemSlider/index.html
